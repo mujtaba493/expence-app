@@ -2,8 +2,8 @@
   max-width: 400px;
   min-height: 450px;
   margin: 0 auto;
-  background-color:lightseagreen;
-  box-shadow: 0 0 10px darkblue;
+  background-color:rgb(131, 247, 241);
+  box-shadow: 0 0 10px rgb(0, 118, 139);
   margin-top: 50px;
   padding: 15px 50px;
   
@@ -17,7 +17,7 @@
   display: flex;
   justify-content: space-around;
   background-color: white;
-  box-shadow: 0 0 10px darkblue;
+  box-shadow: 0 0 10px  rgb(0, 118, 139);;
 }
 
 .trnsaction-list {
@@ -28,7 +28,7 @@
 .trnsaction-list > li {
   display: flex;
   justify-content: space-between;
-  box-shadow: 0 0 10px darkblue;
+  box-shadow: 0 0 10px  rgb(0, 118, 139);;
   padding: 10px 15px;
   background-color: white;
   margin: 5px 0;
